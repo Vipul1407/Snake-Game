@@ -1,7 +1,6 @@
 # Python Snake
 
-The classic snake game made in [Python Tkinter](https://docs.python.org/3/library/tkinter.html). Written for Python3 by [GeeksforGeeks](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/). Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
+The classic snake game made using Python
 <div align="center">
 <img src="graphic.jpg" alt="Snake Game image">
 
