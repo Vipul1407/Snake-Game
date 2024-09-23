@@ -13,12 +13,6 @@ Use the arrow keys to move: the left arrow key to move left, the right arrow key
 
 ## How to play
 
-- Clone the repository:
-
-```
-$ git clone https://github.com/autruonggiang/Simple-Snake-Game.git
-```
-
 - Install Python:
 
 Make sure Python is installed on your system. You can download it from the official [Python website](https://www.python.org/).
